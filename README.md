@@ -1,2 +1,2 @@
 # linkedListChallenge
-link list challenge
+*Java challenge for a Java course using Linked list*
